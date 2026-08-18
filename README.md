@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ZRH-N3M
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning HTML / CSS / JS
-- 📫 How to reach me -> luca-esposito.ch
 - 😄 Pronouns: leave me alone with this
 - ⚡ Fun fact: I can almost never stay serious
 
